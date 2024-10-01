@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(255, 196, 0) ;
+}
+*{
+    text-decoration: none;
+}
+.sheb{
+    background-color: aqua; display:flex; align-items:center ;padding: 15px;
+}
+.samie a{
+    color: rgb(240, 6, 6); font-family:sans-serif; font-size: 50px; font-weight: 600px; text-shadow: 3px 3px 5px chartreuse,-3px -3px 5px rgb(7, 91, 247);
+}
+li{
+    list-style: none; margin-right: 20px; display: inline-block;
+}
+li a{
+    background-color: aqua; font-size: 20px; font-weight:bold ; margin-left: 70px;
+}
+button{ background-color: black; border-radius: 30px; width: 80px; height: 30px;
+     box-shadow:3px 3px 5px cornflowerblue, -3px -3px 5px chocolate ;
+      transition: 2s; margin-right: 50px;
+
+}
+button a{
+    color: rgb(9, 238, 21);
+    opacity: 0.9;
+    
+}
+p1{
+    color: rgb(243, 56, 143);
+}
+p2{
+    color: blue;
+}
+.search-bar{
+    display: block;
+}
